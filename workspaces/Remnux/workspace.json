@@ -22,7 +22,7 @@
     {
       "version": "1.17.x",
       "image": "kasmweb/remnux-focal-desktop:1.16.1-rolling-daily",
-      "uncompressed_size_mb": 3190,
+      "uncompressed_size_mb": 18500,
       "available_tags": [
         "1.16.1-rolling-daily",
         "1.16.1-rolling-weekly"
