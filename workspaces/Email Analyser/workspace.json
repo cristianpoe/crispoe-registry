@@ -21,10 +21,12 @@
     {
       "version": "1.17.x",
       "image": "crispoe/email-analyser:1.0",
-      "uncompressed_size_mb": 3190
+      "uncompressed_size_mb": 3190,
+      "available_tags": [
+        "1.0"
+      ]
       
 
     }
-  ],
-  "name": "crispoe/email-analyser:1.0"
+  ]
 }
