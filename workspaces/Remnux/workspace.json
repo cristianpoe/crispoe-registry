@@ -1,6 +1,6 @@
 {
   "friendly_name": "Remnux",
-  "image_src": "img/thumbnails/remnux.png",
+  "image_src": "remnux.png",
   "description": "Malware analysis toolkit",
   "cores": 4,
   "memory": 6768,
