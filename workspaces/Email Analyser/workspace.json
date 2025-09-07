@@ -13,7 +13,6 @@
   "require_gpu": false,
   "enabled": true,
   "image_type": "Container",
-  "name": "crispoe/email-analyser:1.0",
   "architecture": [
     "amd64",
     "arm64"
